@@ -1,0 +1,14 @@
+{
+  "name": "simple-nodejs-crud",
+  "version": "1.0.0",
+  "description": "Pacote pra testar funcionamento do NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "query-string": "^7.1.1"
+  }
+}
